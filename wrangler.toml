@@ -1,4 +1,4 @@
-name = "lecryptiquedarkapi"
+name = "lecryptiqueapi"
 main = "index.js"
 compatibility_date = "2025-01-15"
 compatibility_flags = ["nodejs_compat"]
